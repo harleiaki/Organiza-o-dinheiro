@@ -17,8 +17,8 @@ Lista de tecnologias utilizadas no projeto:
 1. Clone o repositório:
 
 ```bash
-$ git clone https://github.com/harleiaki/Organiza-o-dinheiro
-$ cd Organiza-o-dinheiro
+$ git clone https://github.com/harleiaki/organiza-dinheiro
+$ cd organiza-dinheiro
 ```
 
 2. Crie um projeto no Firebase e ative o Firestore e Autenticação com Google.
